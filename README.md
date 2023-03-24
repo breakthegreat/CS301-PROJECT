@@ -4,7 +4,7 @@ Installation steps:
 
 
 - Installed Docker Desktop using this link : https://www.docker.com/products/docker-desktop/<br />
-Enabled Windows Containers as well as Hyper-V as mentionned in this video: https://youtu.be/pTFZFxd4hOI?t=847
+Enabled Windows Containers as well as Hyper-V as mentioned in this video: https://youtu.be/pTFZFxd4hOI?t=847
 
 - Installed wsl-2 following this link : https://learn.microsoft.com/en-us/windows/wsl/install
 
