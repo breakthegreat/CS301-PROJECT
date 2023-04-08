@@ -19,6 +19,7 @@ Instruction:
 - MatPlotLib (pip install matplotlib)
 - Shap (pip install shap)
 <h3>Running the files:</h3>
+
 - After installing all the dependencies on your local machine, pull this repo.
 - Run either shapinterpretation.ipynb or shapinterpretation ALL FEATURES.ipynb: as the title suggest one include all features, the other only a select few.
 - You might need to "trust" the jupyter file in order to enable javascript to show certain graphs.
