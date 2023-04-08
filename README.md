@@ -13,7 +13,6 @@ Instruction:
 
 <h2>Not Using Docker:</h2>
 <h3> Prerequisites:</h3>
-(use pip or pip3 according to your python version)
 
 - Jupyter Notebook (pip install notebook)
 - Sklearn library (pip install scikit-learn)
