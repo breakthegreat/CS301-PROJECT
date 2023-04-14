@@ -27,4 +27,4 @@ Instruction:
 - You might need to "trust" the jupyter file in order to enable javascript to show certain graphs.
 
 <h2>Hugging Face hosting:</h2>
-[huggingface]((https://huggingface.co/spaces/breakthegreat/project301))
+[HuggingFace](https://huggingface.co/spaces/breakthegreat/project301)
