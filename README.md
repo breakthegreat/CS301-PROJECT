@@ -33,5 +33,8 @@ Instruction:
 <h2>Hugging Face hosting:</h2>
 https://huggingface.co/spaces/breakthegreat/project301
 
-<h2>Project landing page :</h2>
+<h2>Project landing page:</h2>
 https://sites.google.com/njit.edu/project301tac47
+
+<h2>Youtube Presentation:</h2>
+https://youtu.be/WLeI1pmbe3o
