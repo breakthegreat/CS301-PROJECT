@@ -33,13 +33,13 @@ Instruction:
 - You might need to "trust" the jupyter file in order to enable javascript to show certain graphs.
 
 
-~~
-<h2>Hugging Face hosting:</h2>
+
+<h2>Hugging Face hosting: (no longer available)</h2>
 https://huggingface.co/spaces/breakthegreat/project301
 
-<h2>Project landing page:</h2>
+<h2>Project landing page: (no longer available)</h2>
 https://sites.google.com/njit.edu/project301tac47
-~~ 
+
 
 <h2>Youtube Presentation:</h2>
 https://youtu.be/WLeI1pmbe3o
